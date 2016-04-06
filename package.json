@@ -1,0 +1,30 @@
+{
+  "name": "infinite quintilian",
+  "version": "1.0.0",
+  "description": "Cool Twitter Bot!",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.8.2",
+    "rita": "^1.1.35",
+    "twitter-bot-environment": "^1.0.5",
+    "twode": "0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "keywords": [
+    "node",
+    "js",
+    "twitter",
+    "bot"
+  ],
+  "author": "Andrew Pilsch",
+  "license": "ISC",
+  "homepage": ""
+}

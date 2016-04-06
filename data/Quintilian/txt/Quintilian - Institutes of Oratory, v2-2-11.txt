@@ -1,0 +1,856 @@
+I now turn to arguments, the name under
+which we comprise the and of the Greeks, terms which, in spite of
+their difference, have much the same meaning. For
+the epicheireme which we translate by commentun or
+commentatio, there being no alternative, though we
+should be wiser to use the Greek name has three
+meanings firstly it means anything conceived in
+the mind this is not however the sense of which
+I am now speaking; secondly it signifies a proposition with a reason, and thirdly a conclusion of an
+argument drawn either from denial of consequents or
+from incompatibles; although there is some controversy on this point. For there are some who style a
+conclusion from consequents an epicheireme, while it
+will be found that the majority hold the view that an
+epicheireme is a conclusion from incompatibles
+wherefore Cornificius styles it a contrarium or argument from contraries. Some again call it a rhetorical
+syllogism, others an incomplete syllogism, because
+its parts are not so clearly defined or of the same
+number as those of the regular syllogism, since such precision is not specially required by the orator.
+Valgius translates by aggressio, that is
+an attempt. It would however, in my opinion, be
+truer to say that it is not our handling of the
+subject, but the thing itself which we attempt which
+should be called an that is to say the
+argument by which we try to prove something and
+which, even if it has not yet been stated in so many
+words, has been clearly conceived by the mind.
+Others regard it not as an attempted or imperfect
+proof, but a complete proof, falling under the most
+special species of proof; consequently, according to
+its proper and most generally received appellation it
+must be understood in the sense of a definite conception of some thought consisting of at least three
+parts. Some call an a reason, but Cicero
+is more correct in calling it a reasoning, although he
+too seems to derive this name from the syllogism
+rather than anything else; for he calls the
+syllogistic basis a ratiocinative basis and quotes philosophers to support him. And since there is a certain kinship between a syllogism and an epicheireme,
+it may be thought that he was justified in his use of
+the latter term. An is a clear proof; hence
+the use of the term by the geometricians. Caecilius
+holds that it differs from the epicheireme solely in the
+kind of conclusion arrived at and that an apodeixis is
+simply an incomplete epicheireme for the same reason
+that we said an enthymeme differed from a syllogism.
+For an epicheireme is also part of a syllogism. Some
+think that an apodeixis is portion of an epicheireme, namely the part containing the proof. But all
+authorities, however much they may differ on other
+points, define both in the same way, in so far as they
+call both a method of proving what is not certain by
+means of what is certain. Indeed this is the nature
+of all arguments, for what is certain cannot be
+proved by what is uncertain. To all these forms of
+argument the Greeks give the name of , a
+term which, though the literal translation is fides is best translated by probatio But argument has several other meanings.
+For the plots of plays composed for acting in the
+theatre are called arguments, while Pedianus, when
+explaining the themes of the speeches of Cicero,
+says The argument is as follows. Cicero himself in
+writing to Brutus says, Fearing that I might transfer
+something from that source to my Cato, although the
+argument is quite different. It is thus clear that all
+subjects for writing are so called. Nor is this to be
+wondered at, since the term is also in common use
+among artists; hence the Vergilian phrase A mighty
+argument. Again a work which deals with a number
+of different themes is called But the sense with which we are now concerned is
+that which provides proof Celsus indeed treats
+the terms, proof, indication, credibility, attempt,
+simply as different names for the same things, in
+which, to my thinking, he betrays a certain confusion of thought. For proof and credibility are not
+merely the result of logical processes, but may
+equally be secured by inartificial arguments. Now
+I have already distinguished signs or, as he prefers
+to call them, indications from arguments. Consequently, since an argument is a process of reasoning which provides proof and enables one thing to be
+inferred from another and confirms facts which are
+uncertain by reference to facts which are certain,
+there must needs be something in every case which
+requires no proof. Otherwise there will be nothing
+by which we can prove anything; there must be
+something which either is or is believed to be true,
+by means of which doubtful things may be rendered
+credible. We may regard as certainties, first, those
+things which we perceive by the senses, things for
+instance that we hear or see, such as signs or indications; secondly, those things about which there is
+general agreement, such as the existence of the gods
+or the duty of loving one's parents; thirdly, those
+things which are established by law or have passed
+into current usage, if not throughout the whole
+world, at any rate in the nation or state where the
+case is being pleadedthere are for instance many
+rights which rest not on law, but on custom; finally,
+there are the things which are admitted by either
+party, and whatever has already been proved or is
+not disputed by our adversary. Thus for instance it
+may be argued that since the world is governed by
+providence, the state should similarly be governed
+by some controlling power it follows that the state
+must be so governed, once it is clear that the world
+is governed by providence. Further, the man who is
+to handle arguments correctly must know the nature
+and meaning of everything and their usual effects.
+For it is thus that we arrive at probable arguments
+or as the Greeks call them. With regard to
+credibility there are three degrees. First, the
+highest, based on what usually happens, as for instance the assumption that children are loved by their parents. Secondly, there is the highly
+probable, as for instance the assumption that a man
+in the enjoyment of good health will probably live
+till to-morrow. The third degree is found where
+there is nothing absolutely against an assumption,
+such as that a theft committed in a house was the
+work of one of the household. Consequently
+Aristotle in the second book of his Rhetoric has
+made a careful examination of all that commonly
+happens to things and persons, and what things and
+persons are naturally adverse or friendly to other
+things or persons, as for instance, what is the
+natural result of wealth or ambition or superstition,
+what meets with the approval of good men, what is
+the object of a soldier's or a farmer's desires, and by
+what means everything is sought or shunned. For
+my part I do not propose to pursue this subject. It
+is not merely a long, but an impossible or rather an
+infinite task; moreover it is within the compass of
+the common understanding of mankind. If, however, anyone wishes to pursue the subject, I have
+indicated where he may apply. But all credibility,
+and it is with credibility that the great majority of
+arguments are concerned, turns on questions such
+as the following whether it is credible that a father
+has been killed by his son, or that a father has committed incest with his daughter, or to take questions
+of an opposite character, whether it is credible that
+a stepmother has poisoned her stepchild, or that a
+man of luxurious life has committed adultery; or
+again whether a crime has been openly committed,
+or false evidence given for a small bribe, since each
+of these crimes is the result of a special cast of
+character as a rule, though not always; if it were always so, there would be no room for doubt, and
+no argument. Let us now turn to consider the of arguments, although some hold that they are identical
+with the topics which I have already discussed
+above. But I do not use this term in its usual
+acceptance, namely, commonplaces directed against
+luxury, adultery, and the like, but in the sense of
+the secret places where arguments reside, and from
+which they must be drawn forth. For just as all
+kinds of produce are not provided by every country,
+and as you will not succeed in finding a particular bird
+or beast, if you are ignorant of the localities where
+it has its usual haunts or birthplace, as even the
+various kinds of fish flourish in different surroundings, some preferring a smooth and others a rocky
+bottom, and are found on different shores and in
+divers regions you will for instance never catch
+a sturgeon or wrasse in Italian waters, so not
+every kind of argument can be derived from every
+circumstance, and consequently our search requires
+discrimination. Otherwise we shall fall into serious
+error, and after wasting our labour through lack of
+method we shall fail to discover the argument which
+we desire, unless assisted by some happy chance.
+But if we know the circumstances which give rise to
+each kind of argument, we shall easily see, when
+we come to a particular what arguments
+it contains. Firstly, then, arguments may be drawn from
+persons; for, as I have already said, all arguments
+fall into two classes, those concerned with things and
+those concerned with persons, since causes, time,
+place, occasion, instruments, means and the like are all accidents of things. I have no intention of
+tracing all the accidents of persons, as many have
+done, but shall confine myself to those from which
+arguments may be drawn. Such are birth, for
+persons are generally regarded as having some
+resemblance to their parents and ancestors, a resemblance which sometimes leads to their living
+disgracefully or honourably, as the case may be;
+then there is nationality, for races have their own
+character, and the same action is not probable in the
+case of a barbarian, a Roman and a Greek; country
+is another, for there is a like diversity in the laws,
+institutions and opinions of different states; sex,
+since for example a man is more likely to commit a
+robbery, a woman to poison; age, since different
+actions suit different ages; education and training,
+since it makes a great difference who were the instructors and what the method of instruction in each
+individual case; bodily constitution, for beauty is
+often introduced as an argument for lust, strength as
+an argument for insolence, and their opposites for
+opposite conduct; fortune, since the same acts are
+not to be expected from rich and poor, or from one
+who is surrounded by troops of relations, friends or
+clients and one who lacks all these advantages;
+condition, too, is important, for it makes a great
+difference whether a man be famous or obscure, a
+magistrate or a private individual, a father or a son,
+a citizen or a foreigner, a free man or a slave,
+married or unmarried, a father or childless. Nor
+must we pass by natural disposition, for avarice,
+anger, pity, cruelty, severity and the like may often
+be adduced to prove the credibility or the reverse of
+a given act; it is for instance often asked whether a man's way of living be luxurious, frugal or parsimonious. Then there is occupation, since a rustic, a
+lawyer, a man of business, a soldier, a sailor, a doctor
+all perform very different actions. We must also
+consider the personal ambitions of individuals, for
+instance whether they wish to be thought rich or
+eloquent, just or powerful. Past life and previous
+utterances are also a subject for investigation, since
+we are in the habit of inferring the present from the
+past. To these some add passion, by which they
+mean some temporary emotion such as anger or fear;
+they also add design, which may refer to the past,
+present or future. These latter, however, although
+accidents of persons, should be referred to that class
+of arguments which we draw from causes, as also
+should certain dispositions of mind, for example
+when we inquire whether one man is the friend or
+enemy of another. Names also are treated as
+accidents of persons; this is perfectly true, but names
+are rarely food for argument, unless indeed they
+have been given for some special reasons, such as the
+titles of Wise, Great, Pious, or unless the name has
+suggested some special thought to the bearer.
+Lentulus for instance had the idea of conspiracy
+suggested to him by the fact that according to the
+Sibylline books and the Responses of the soothsayers the tyranny was promised to three members
+of the Cornelian family, and he considered himself to
+be the third in succession to Sulla and Cinna, since
+he too bore the name Cornelius. On tile other hand
+the conceit employed by Euripides where he makes
+Eteocles taunt his brother Polynices on the ground
+that his name is evidence of character, is feeble in
+the extreme. Still a name will often provide the
+subject for a jest, witness the frequent jests of Cicero on the name of Verres. Such, then, and the
+like are the accidents of persons. It is impossible
+to deal with them all either here or in other portions
+of this work, and I must content myself with pointing out the lines on which further enquiry should
+proceed. I now pass to things of these actions are the most
+nearly connected with persons and must therefore be
+treated first. In regard to every action the question
+arises either Why or Where or When or How or By
+what means the action is performed. Consequently
+arguments are drawn from the causes of past or future
+actions. The matter of these causes, by some called by others falls into two genera, which
+are each divided into four species. For the motive
+for any action is as a rule concerned with the acquisition, increase, preservation and use of things that are
+good or with the avoidance, diminution, endurance
+of things that are evil or with escape there from.
+All these considerations carry great weight in deliberative oratory as well. But right actions have
+right motives, while evil actions are the result of
+false opinions, which originate in the things which
+men believe to be good or evil. Hence spring errors
+and evil passions such as anger, hatred, envy, desire,
+hope, ambition, audacity, fear and others of a similar
+kind. To these accidental circumstances may often
+be added, such as drunkenness or ignorance, which
+serve sometimes to excuse and sometimes to prove
+a charge, as for instance when a man is said to have
+killed one person while lying in wait for another.
+Further, motives are often discussed not merely to
+convict the accused of the offence with which he is
+charged, but also to defend him when he contends that his action was right, that is to say proceeded
+from an honourable motive, a theme of which I have
+spoken more fully in the third book. Questions
+of definition are also at times intimately connected
+with motives. Is a man a tyrannicide if he kills a
+tyrant by whom he has been detected in the act
+of adultery Or is lie guilty of sacrilege who tore
+down arms dedicated in a temple to enable him to
+drive the enemy from the city Arguments are also
+drawn from place. With a view to proving our facts
+we consider such questions as whether a place is hilly
+or level, near the coast or inland, planted or uncultivated, crowded or deserted, near or far, suitable for
+carrying out a given design or the reverse. This is a
+topic which is treated most carefully by Cicero in his
+pro Milone. These points and the like generally
+refer to questions of fact, but occasionally to
+questions of law as well. For we may ask whether
+a place is public or private, sacred or profane, our
+own or another's, just as where persons are concerned
+we ask whether a man is a magistrate, a father, a
+foreigner. Hence arise such questions as the following. You have committed an assault, but since the
+object of your assault was a magistrate, the crime is
+lse-majest. Similarly it may be urged in defence, But such points afford matter for
+argument when there is a controversy as to the
+facts, and matter for enquiry when the dispute
+turns on a point of law. Place also frequently affects the quality of an action, for the same action
+is not always lawful or seemly under all circumstances, while it makes considerable difference in
+what state the enquiry is taking place, for they differ
+both in custom and law. Further arguments drawn
+from place may serve to secure approval or the
+reverse. Ajax for instance in Ovid says Again one of the many charges brought against
+Milo was that he killed Clodius on the monument of
+his ancestors. Such arguments may also carry
+weight in deliberative oratory, as may those drawn
+from time, which I shall now proceed to discuss.
+Time may, as I have said elsewhere, be understood
+in two different senses, general and special. The first
+sense is seen in words and phrases such as and whenever we speak
+of past, present or future. The second sense occurs
+when we speak either of definite periods of time
+such as or of fortuitous periods such as Certain Latin writers have thought it a sufficient
+distinction to call the general sense and the
+special In both senses time is of importance
+in advisory speeches and demonstrative oratory, but
+not so frequently as in forensic. For questions of law
+turn on time, while it also determines the quality of
+actions and is of great importance in questions of
+fact; for instance, occasionally it provides irrefragable proofs, which may be illustrated by a case which I
+have already cited, when one of the signatories to a
+document has died before the day on which it was
+signed, or when a person is accused of the commission of some crime, although he was only an infant
+at the time or not yet born. Further, all kinds of
+arguments may easily be drawn either from facts
+previous to a certain act, or contemporary or subsequent. As regards antecedent facts the following
+example will illustrate my meaning; Motives of actions may also belong to
+past time. Some writers have shown themselves
+over-subtle in their classification of the second class
+of circumstances, making an
+example of circumstances combined with an act and an instance of circumstances
+attached to an act. As regards subsequent circumstances I may cite accusations such as The counsel for the defence will
+employ the same divisions of time to discredit the
+charge which is brought against him. In these
+considerations are included everything in connexion
+with words and deeds, but in two distinct ways.
+For some things are done because something else is
+like to follow, and others because something else
+has previously been done, as for instance, when the
+husband of a beautiful woman is accused of having
+acted as a procurer on the ground that he bought
+her after she was found guilty of adultery, or
+when a debauched character is accused of parricide on the ground that he said to his father For in the former case the accused is not a procurer
+because he bought the woman, but bought her
+because he was a procurer, while in the latter the
+accused is not a parricide because he used these
+words, but used them because lie intended to kill his
+father. With regard to accidental circumstances,
+which also provide matter for arguments, these
+clearly belong to subsequent time, but are distinguished by a certain special quality, as for instance if
+I should say, ;; ;
+or referring to bad qualities, ; We must also
+consider the resources possessed by the parties
+concerned, more especially when dealing with questions of fact; for it is more credible that a smaller
+number of persons were killed by a larger, a weaker
+party by a stronger, sleepers by men that were wide
+awake, the unsuspecting by the well-prepared, while
+the converse arguments may be used to prove the
+opposite. Such considerations arise both in deliberative and forensic oratory in the latter they occur
+in relation to two questions, namely, whether some
+given person had the will, and whether lie had the
+power to do the deed; for hope will often create
+the will to act. Hence the well-known inference in
+Cicero With resources we may couple instruments, which form part of resources and
+means. But sometimes instruments will provide us
+with indications as well, as for instance if we find
+a javelin sticking in a dead body. To these we may
+add manner, the Greek in regard to which
+we ask how a thing was done. Manner is concerned
+sometimes with quality and the letter of the law
+we may for instance argue that it was unlawful to
+kill an adulterer by poison, sometimes with questions of fact, as for example if I argue that an act
+was committed with a good intent and therefore
+openly, or with a bad intent and therefore treacherously, by night, in a lonely place. In all cases, however, in which we enquire into the
+nature and meaning of an act, and which can be
+considered by themselves apart from all considerations of persons and all else that gives rise to the
+actual cause, there are clearly three points to which
+we must give attention, namely Whether it is, What
+it is and Of what kind it is. But as there are certain of argument which are common to
+all three questions, this triple division is impracticable and we must therefore consider these questions rather in connexion with those in
+which they most naturally arise. Arguments, then,
+may be drawn from definition, sometimes called
+finitio and sometimes finis. Definition is of two
+kinds. We may ask whether a particular quality is a
+virtue or make a definition precede and ask what is
+the nature of a virtue. Such a definition is either
+stated in general terms, such as Rhetoric is the science
+of speaking well, or in detail, such as Rhetoric is the
+science of correct conception, arrangement and utterance,
+coupled with a retentive memory and a dignified delivery. Further, we may define a word by giving its content
+as in the preceding instances, or by etymology we
+may for instance explain assiduus by deriving it from
+as and do, locuples by deriving it from copia locorum,
+pecuniosus from copiapecorum. Genus, species, difference
+and property seem more especially to afford scope for
+definition, for we derive arguments from all of these.
+Genus is of little use when we desire to prove a
+species, but of great value for its elimination. A tree
+is not necessarily a plane tree, but that which is not
+a tree is certainly not a plane tree; again, a virtue is
+not necessarily the virtue of justice, but that which
+is not a virtue is certainly not justice. We must
+proceed from the genus to the ultimate species; for
+example, to say that man is an animal will not
+suffice; for animal merely gives us the genus nor
+yet will the addition of the words be adequate; for although this epithet gives
+us a species, it is common to other animals as well.
+If, however, we define man as a rational animal, we
+need nothing further to make our meaning clear.
+On the other hand species will give us clear proof of
+genus, but is of little service for its elimination.
+For example, justice is always a virtue, but that
+which is not justice may still be a virtue, such as
+fortitude, constancy or self-control. Genus therefore
+cannot be eliminated by species unless all the species
+included in the genus be eliminated, as for instance
+in the following sentence That which is neither rational nor mortal nor an animal is not a man. To these they
+add property and difference. Properties serve to
+establish definitions, differences to overthrow them.
+A property is that which happens to one particular
+object and that alone; speech and laughter for
+instance are properties of man. Or it may be something specially belonging to an object, but not to it
+alone; heating for instance is a property of fire. The
+same thing may also have a number of properties
+light and heat are both properties of fire. Consequently, the omission of any property in a definition
+will impair it, but the introduction of a property,
+whatever it may be, will not necessarily establish a
+definition. We have, however, often to consider
+what is a property of some given object; for example,
+if it should be asserted, on the ground of etymology,
+that the peculiar property of a tyrannicide is to kill
+tyrants, we should deny it for an executioner is not
+ipso facto a tyrannicide, if he executes a tyrant who
+has been delivered to him for the purpose, nor again
+is he a tyrannicide who kills a tyrant unwittingly or
+against his will. What is not a property will be a
+difference it is, for instance, one thing to be a slave,
+and another to be in a state of servitude; hence the
+distinction raised in connexion with persons assigned
+to their creditors for debt A slave, if he is manumitted becomes a freedman, but this is not the case with
+one who is assigned. There are also other points of
+difference which are dealt with elsewhere. Again,
+the term difference is applied in cases when the
+genus is divided into species and one species is subdivided. Animal, for instance, is a genus, mortal a
+species, while terrestrial or biped is a difference for
+they are not actually properties, but serve to show the difference between such animals and quadrupeds
+or creatures of the sea. This distinction, however,
+comes under the province not so much of argument
+as of exact definition. Cicero separates genus and species, which latter he calls form, from definition
+and includes them under relation. For example,
+if a person to whom another man has left all his
+silver should claim all his silver money as well, he
+would base his claim upon genus; on the other hand
+if when a legacy has been left to a married woman
+holding the position of materfamilias, it should be
+maintained that the legacy is not due to a woman
+who never came into the power of her husband, the
+argument is based on species, since there are two
+kinds of marriage. Cicero further shows that
+definition is assisted by division, which he distinguishes from partition, making the latter the
+dissection of a whole into its parts and the former
+the division of a genus into its forms or species. The
+number of parts he regards as being uncertain, as for
+instance the elements of which a state consists; the
+forms or species are, however, certain, as for instance
+the number of forms of government, which we are
+told are three, democracy, oligarchy, and monarchy.
+It is true that he does not use these illustrations,
+since, as he was writing to Trebatius, he preferred
+to draw his examples from law. I have chosen my
+illustrations as being more obvious. Properties have
+relation to questions of fact as well; for instance,
+it is the property of a good man to act rightly, of an
+angry man to be violent in speech or action, and
+consequently we believe that such acts are committed by persons of the appropriate character, or not committed by persons of inappropriate character.
+For just as certain persons possess certain qualities,
+so certain others do not possess certain qualities,
+and the argument is of precisely the same nature,
+though from opposite premises. In a similar way division is valuable both for proof
+and refutation. For proof, it is sometimes enough to
+establish one thing. For refutation,
+both points must be disproved This may be done in many ways,
+and constitutes a form of argument by elimination,
+whereby we show sometimes that the whole is false,
+sometimes that only that which remains alter the
+process of elimination is true. An example of the
+first of these two cases would be The residue after elimination is shown to be true as follows By the elimination
+of the previous suppositions he is shown to belong to
+another. This form of argument is risky and must
+be employed with care; for if, in setting forth the
+alternatives, we chance to omit one, our whole case
+will fail, and our audience will be moved to laughter.
+It is safer to do what Cicero does in the pro
+Caecina, when he asks, For thus all other points are eliminated at
+one swoop. Or again two contrary propositions may be
+advanced, either of which if established would suffice to prove the case. Take the following example
+from Cicero Or
+we may give our opponent the choice between two
+alternatives of which one must necessarily be true,
+and as a result, whichever he chooses, lie will
+damage his case. Cicero does this in the pro
+Oppio and in the pro Vareno He then shows
+that either admission tells against his opponent.
+Sometimes again, two propositions are stated of such
+a character that the admission of either involves
+the same conclusion, as in the sentence, or as in
+the common dilemma, or, As there are three divisions of time, so the order
+of events falls into three stages. For everything has a
+beginning, growth and consummation, as for instance a quarrel, blows, murder. Thus arise arguments which
+lend each other mutual support; for the conclusion
+is inferred from the beginnings, as in the following
+case ; or the
+beginning may be inferred from the conclusion
+for instance the fact that Sulla resigned the dictatorship is an argument that Sulla did not take up
+arms with the intention of establishing a tyranny.
+Similarly from the growth of a situation we may
+infer either its beginning or its end, not only in
+questions of fact but as regards points of equity,
+such as whether the conclusion is referable to the
+beginning, that is, Arguments are also drawn from similarities To this class belongs
+the type of argument called by the Greeks,
+induction by Cicero. Or arguments may be drawn
+from unlikes  Or
+from contraries   Or
+from contradictions Or from consequences necessary or probable  And such arguments
+may also be reversed. Similar to these are the
+following arguments, which must therefore be
+classed under this same head, since it is to this
+that they naturally belong   However, such arguments, being incontrovertible,
+are of the nature of absolute indications. These,
+however, I call consequent or goodness, for
+instance, is consequent on wisdom while in regard
+to things which merely have taken place afterwards or
+will take place I use the term insequent or though I do not regard the question of terminology
+as important. Give them any name you please, as
+long as the meaning is clear and it is shown that
+the one depends on time, the other on the
+nature of things. I have therefore no hesitation in
+calling the following forms of argument also consequential, although they argue from the past to the
+future some however divide them into two classes,
+those concerned with action, as in the pro Oppio, and those concerned with time, as in
+the Verrines, Both these instances are of such a nature that the argument is
+reversible. For it is a necessary consequence that
+those who could not be taken to the province
+against their will could not be retained against their
+will. So too I feel clear that we should rank as
+consequential arguments those derived from facts
+which lend each other mutual support and are by
+some regarded as forming a separate kind of argument, which they call arguments
+from things mutually related, while Cicero styles
+them arguments drawn from things to which the
+same line of reasoning applies; take the following
+example or Such also is the fine sentence of Domitius Afer,
+which has the same effect, though it is not identical
+in form Arguments which prove the same thing from opposites
+are also mutually consequential; for instance, we may
+argue that he who says that the world was created
+thereby implies that it is suffering decay, since this
+is the property of all created things. There is another very similar form of argument,
+which consists in the inference of facts from their
+efficient causes or the reverse, a process known as
+argument from causes. The conclusion is sometimes
+necessary, sometimes generally without being necessarily true. For instance, a body casts a shadow in
+the light, and the shadow wherever it falls indicates
+the presence of a body. There are other conclusions
+which, as I have said, are not necessary, whether as
+regards both cause and effect or only one of the two.
+For instance, As examples
+of necessary conclusions on the other hand I may
+cite the following ; and again, or In these
+cases the conclusion is correct. On the other hand, Arguments such as the following belong in the main to
+the hortative department of oratory But the warning that we
+should not necessarily search for the originating
+cause is just an example of such error is provided
+by the speech of Medea beginning as though her misery or guilt were due to the fact
+that there or I might cite the words addressed by Philoctetes
+to Paris, By tracing back causes on lines such as these we
+may arrive anywhere. But for the fact that Cicero
+has done so, I should regard it as absurd to add to
+these what is styled the conjugate argument, such as a self-evident fact requiring no proof; or again, Some call these arguments
+derived from causes or efficients by the Greek name that is, results; for in such cases the only
+point considered is how one thing results from
+another. Those arguments which prove the lesser from the
+greater or the greater from the less or equals from
+equals are styled apposite or comparative. A conjecture as to a fact is confirmed by argument from
+something greater in the following sentence ;
+from something less, in a sentence such as ; from
+something equal in a sentence such as Points of law may be
+proved in a similar manner; from something greater,
+as in the sentence ; from something less, ; from
+something equal, In all these cases we follow the syllogistic
+method. The following type of argument on the
+other hand is more serviceable in questions turning on definition or quality. I am
+content to treat this type of argument as a genus
+without going further; others however divide it into
+species. For we may argue from several things to
+one or from one thing to several; hence arguments
+such as We may also argue from a part to a whole,
+from genus to species, from that which contains to
+that which is contained, from the difficult to the
+easy, from the remote to the near, and similarly
+from the opposites of all these to their opposites.
+Now all these arguments deal with the greater or
+the less or else with things that are equal, and if we
+follow up such fine distinctions, there will be no
+limit to our division into species. For the comparison of things is infinite; things may be more
+pleasant, more serious, more necessary, more honourable, more useful. I say no more for fear of falling
+into that very garrulity which I deprecate. The
+number of examples of these arguments which I
+might quote is likewise infinite, but I will only deal
+with a very few. As an example of argument from
+something greater take the following example from
+the pro Caecina As an instance of
+argument from something easier, take this passage from the speech against Clodius and Curio The following provides an example of argument from
+something more difficult ; and again, For an argument drawn from
+something less take this passage from the pro
+Caecinaa Well, then, to give a brief
+summary of the whole question, arguments are
+drawn from persons, causes, place and time which
+latter we have divided into preceding, contemporary
+and subsequent, from resources under which we
+include instruments, from manner that is, how a
+thing has been done, from definition, genus, species,
+difference, property, elimination, division, beginnings, increase, consummation, likes, unlikes, contradictions, consequents, efficients, effects, results,
+and comparison, which is subdivided into several
+species. I think I should also add that arguments are
+drawn not merely from admitted facts, but from
+fictitious suppositions, which the Greeks style and that this latter type of argument falls
+into all the same divisions as those which I have mentioned above, since there may be as many
+species of fictitious arguments as there are of true
+arguments. When I speak of fictitious arguments
+I mean the proposition of something which, if true,
+would either solve a problem or contribute to its
+solution, and secondly the demonstration of the
+similarity of our hypothesis to the case under consideration. To make this the more readily intelligible to youths who have not yet left school, I will
+first of all illustrate it by examples of a kind familiar
+to the young. There is a law to the effect that A certain man fails to support his
+parents and none the less objects to going to prison.
+He advances the hypothesis that he would be exempt
+from such a penalty if he were a soldier, an infant.
+or if he were absent from home on the service of
+the state. Again in the case where a hero is allowed
+to choose his reward we might introduce the
+hypotheses of his desiring to make himself a tyrant
+or to overthrow the temples of the gods. Such
+arguments are specially useful when we are arguing
+against the letter of the law, and are thus employed
+by Cicero in the pro Caecina Many other examples
+might be quoted from the same work. But fictitious
+suppositions are also exceedingly useful when we
+are concerned with the quality of an act It is useful
+also for amplification ;
+or again, Such in the main are the usual topics of proof
+as specified by teachers of rhetoric, but it is not
+sufficient to classify them generically in our instructions, since from each of them there arises an infinite
+number of arguments, while it is in the very nature
+of things impossible to deal with all their individual
+species. Those who have attempted to perform
+this latter task have exposed themselves in equal
+degree to two disadvantages, saying too much and
+yet failing to cover the whole ground. Consequently
+the majority of students, finding themselves lost in
+an inextricable maze, have abandoned all individual
+effort, including even that which their own wits
+might have placed within their power, as though
+they were fettered by certain rigid laws, and keeping their eyes fixed upon their master have ceased
+to follow the guidance of nature. But as it is not
+in itself sufficient to know that all proofs are drawn
+either from persons or things, because each of these
+groups is subdivided into a number of different heads
+so he who has learned that arguments must be
+drawn from antecedent, contemporary or subsequent facts will not be sufficiently instructed in
+the knowledge of the method of handling arguments
+to understand what arguments are to be drawn from
+the circumstances of each particular case; especially
+as the majority of proofs are to be found in the
+special circumstances of individual cases and have no connexion with any other dispute, and therefore
+while they are the strongest, are also the least
+obvious, since, whereas we derive what is common
+to all cases from general rules, we have to discover
+for ourselves whatever is peculiar to the case which
+we have in hand. This type of argument may
+reasonably be described as drawn from circumstances, there being no other word to express the
+Greek or from those things which are
+peculiar to any given case. For instance, in the
+case of the priest who having committed adultery
+desired to save his own life by means of the law
+which gave him the power of saving one life, the
+appropriate argument to employ against him would
+run as follows For
+such an argument follows from the law forbidding
+the execution of the adulteress apart from the
+adulterer. Again, take the case falling under the
+law which lays down that bankers may pay only
+half of what they owe, while permitted to recover
+the whole of what they are owed. One banker
+requires payment of the whole sum owed him by
+another banker. The appropriate argument supplied
+by the subject to the creditor is that there was
+special reason for the insertion of the clause
+sanctioning the recovery of the whole of a debt
+by a banker, since there was no need of such a law
+as against others, inasmuch as all have the right to
+recover the whole of a debt from any save a banker.
+But while some fresh considerations are bound to
+present themselves in every kind of subject, this is
+more especially the case in questions turning on the letter of the law, since not merely individual
+words, but still more whole phrases are frequently
+ambiguous. And these considerations must vary
+according to the complexity of laws and other
+documents, whether they are in agreement or contradictory, since fact throws light on fact and law on
+law as in the following argument It is laid down by law that he
+who refuses to defend his father when accused of
+treason thereby loses his right to inherit. A son
+denies that he is liable to this penalty unless his
+father is acquitted. How does he support this contention There is another law to the effect that a
+man found guilty of treason shall be banished and
+his advocate with him. Cicero in the pro Cluentio
+says that Publius Popilius and Tiberius Gutta were
+not condemned for receiving bribes to give a false
+verdict, but for attempting to bribe the jury. What
+is his argument in support of this view That
+their accusers, who were themselves found guilty of
+bribing the jury, were restored in accordance with
+law after winning their case. But the consideration
+as to what argument should be put forward requires
+no less care than the consideration of the manner in
+which we are to prove that which we have put
+forward. Indeed in this connexion invention, if
+not the most important, is certainly the first consideration. For, just as weapons are superfluous
+for one who does not know what his target is, so
+too arguments are useless, unless you see in advance
+to what they are to be applied. This is a task for
+which no formal rules can be laid down. Consequently, though a number of orators, who have
+studied the same rules, will use similar kinds of
+arguments, one will discover a greater number of
+arguments to suit his case than another. Let us
+take as an example a controversial theme involving
+problems that have little in common with other
+cases. The
+case is tried before the Amphictyonic council. It is
+admitted that the Thebans lent the money and
+were not repaid. The whole dispute turns on the
+allegation that Alexander had excused the Thessalians from payment of the debt. It is also admitted
+that the Thessalians had received no money from
+Alexander. The question is therefore whether his
+gift is equivalent to his having given them money.
+What use will formal topics of argument be in such
+a case, unless I first convince myself that the gift of
+Alexander made no difference, that he had not the
+power to make it, and that he did not make it
+The opening of the Thebans' plea presents no
+difficulty and is likely to win the approval of the
+judges, since they are seeking to recover by right
+what was taken from them by force. But out of this
+point arises a violent controversy as to the right of
+war, since the Thessalians urge that kingdoms and
+peoples and the frontiers of nations and cities
+depend upon these rights. To meet this argument it is necessary to discover in what respect this case
+differs from others which are concerned with property that has fallen into the hands of the victor
+the difficulty moreover lies not so much in the
+proof as in the way it should be put forward. We
+may begin by stating that the rights of war do not
+hold good in any matter which can be brought
+before a court of justice, and that what is taken
+by force of arms can only be retained by force of
+arms, and consequently, wherever the rights of war
+hold good, there is no room for the functions of
+a judge, while on the contrary where the functions
+of the judge come into play, the rights of war cease
+to have any force. The reason why it is necessary
+to discover this principle is to enable us to bring
+the following argument into play that prisoners of
+war are free on returning to their native land just
+because the gains of war cannot be retained except
+by the exercise of the same violence by which they
+were acquired. Another peculiar feature of the case
+is that it is tried before the Amphictyonic council,
+and you will remember that we have to employ
+different methods in pleading a case before the
+centumviral court and before an arbitrator, though
+the problems of the cases may be identical. Secondly
+we may urge that the right to refuse payment could
+not have been conferred by the victor because he
+possesses only what he holds, but a right, being
+incorporeal, cannot be grasped by the hand. It is
+more difficult to discover this principle than, once
+discovered, to defend it with arguments such as
+that the position of an heir and a conqueror are
+fundamentally different, since right passes to the
+one and property to the other. It is further an argument peculiar to the subject matter of the case
+that the right over a public debt could not have
+passed to the victor, because the repayment of a
+sum of money lent by a whole people is due to them
+all, and as long as any single one of them survives,
+he is creditor for the whole amount but the
+Thebans were never all of them to a man in Alexander's power. The force of this argument resides
+in the fact that it is not based on any external
+support, but holds good in itself. Proceeding to
+the third line of argument we may note that the
+first portion of it is of a more ordinary type, namely
+that the right to repayment is not based on the
+actual document, a plea which can be supported
+by many arguments. Doubt may also be thrown on
+Alexander's purpose did he intend to honour them
+or to trick them Another argument peculiar to
+the subject indeed it practically introduces a new
+discussion is that the Thebans may be regarded as
+having in virtue of their restoration recovered the
+right even though it be admitted that they had lost
+it. Again Cassander's purpose may be discussed,
+but, as the case is being pleaded before the Amphictyonic council, we shall find that the most powerful
+plea that can be urged is that of equity. I make these remarks, not because I think that a
+knowledge of the from which arguments
+may be derived is useless had I thought so, I
+should have passed them bybut to prevent those
+who have learnt these rules from neglecting
+other considerations and regarding themselves as
+having a perfect and absolute knowledge of the
+whole subject, and to make them realise that,
+unless they acquire a thorough knowledge of the remaining points which I am about to discuss, they
+will be the possessors of what I can only call a dumb
+science. For the discovery of arguments was not
+the result of the publication of text-books, but every
+kind of argument was put forward before any rules
+were laid down, and it was only later that writers
+of rhetoric noted them and collected them for publication. A proof of this is the fact that the examples which they use are old and quoted from the
+orators, while they themselves discover nothing new
+or that has not been said before. The creators of
+the art were therefore the orators, though we owe
+a debt of gratitude also to those who have given us
+a short cut to knowledge. For thanks to them the
+arguments discovered by the genius of earlier orators
+have not got to be hunted out and noted down in
+detail. But this does not suffice to make an orator
+any more than it suffices to learn the art of gymnastic
+in school the body must be assisted by continual
+practice, self control, diet and above all by nature;
+on the other hand none of these are sufficient in
+themselves without the aid of art. I would also
+have students of oratory consider that all the forms
+of argument which I have just set forth cannot be
+found in every case, and that when the subject on
+which we have to speak has been propounded, it is
+no use considering each separate type of argument
+and knocking at the door of each with a view to
+discovering whether they may chance to serve to
+prove our point, except while we are in the position
+of mere learners without any knowledge of actual
+practice. Such a proceeding merely retards the
+process of speaking to an incalculable extent, if
+it is always necessary for us to try each single argument and thus learn by experiment what is apt
+and suitable to our case. In fact I am not sure that
+it will not be an actual obstacle to progress unless
+a certain innate penetration and a power of rapid
+divination seconded by study lead us straight to the
+arguments which suit our case. For just as the
+melody of the voice is most pleasing when accompanied by the lyre, yet if the musician's hand be
+slow and, unless he first look at the strings and
+take their measure, hesitate as to which strings
+match the several notes of the voice, it would
+be better that he should content himself with the
+natural music of the voice unaccompanied by any
+instrument; even so our theory of speaking must be
+adapted and, like the lyre, attuned to such rules as
+these. But it is only by constant practice that we
+can secure that, just as the hands of the musician,
+even though his eyes be turned elsewhere, produce
+bass, treble or intermediate notes by force of habit,
+so the thought of the orator should suffer no delay
+owing to the variety and number of possible arguments, but that the latter should present themselves
+uncalled and, just as letters and syllables require no
+thought on the part of a writer, so arguments should
+spontaneously follow the thought of the orator. 
