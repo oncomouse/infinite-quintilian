@@ -3,7 +3,7 @@ var twitter = require('twode');
 var BotEnvironment = require('twitter-bot-environment');
 var path = require('path');
 var fs = require('fs');
-var redis = require('redis');
+var Redis = require('ioredis');
 
 var environment = new BotEnvironment();
 
@@ -11,7 +11,11 @@ function Bot(handle) {
 	this.handle = handle.charAt(0) === '@' ? handle : '@' + handle;
 	this.twitter = new twitter(environment.getEnvironment());
 	this.sentenceQueue = null;
-	this.redis_client = redis.createClient();
+	if(process.env.REDIS_SERVER === undefined) {
+		this.redis_client = new Redis();
+	} else {
+		this.redis_client = new Redis(process.env.REDIS_SERVER);
+	}
 	this.redis_client.get('sentence_queue', (err, reply) => {
 		if(reply == null) {
 			this.sentenceQueue = [];

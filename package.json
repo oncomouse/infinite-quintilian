@@ -4,8 +4,8 @@
   "description": "Cool Twitter Bot!",
   "main": "index.js",
   "dependencies": {
+    "ioredis": "^1.15.1",
     "lodash": "^4.8.2",
-    "redis": "^2.6.0-1",
     "rita": "^1.1.35",
     "twitter-bot-environment": "^1.0.5",
     "twode": "0.0.3"
