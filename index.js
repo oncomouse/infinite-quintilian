@@ -49,7 +49,9 @@ Bot.prototype.run = function() {
 	}
 	sentence = this.sentenceQueue.pop();
 	this.redis_client.set('sentence_queue', JSON.stringify(this.sentenceQueue));
-	console.log(this.truncate_tweet(sentence));
+	this.twitter.updateStatus(this.truncate_tweet(sentence), function (err, data) {
+    	console.log(err, data);
+    });
 	bot.redis_client.end(true);
 }
 
