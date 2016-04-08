@@ -1,0 +1,88 @@
+@import "~susy/sass/susy";
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville:400|Lato:700,400);
+
+@import "bootstrap";
+
+$susy: (
+columns: 12,
+output: isolate,
+gutter-position: inside
+);
+
+#DocumentContainer {
+	@include container;
+}
+
+#Colophon {
+	@include span(4);
+	position: absolute;
+	margin-left: gutter() / 2;
+	margin-top: $line-height-computed * 2;
+	overflow: auto;
+	p,ul,ol {
+		font-size: $font-size-base *.95;
+	}
+	h1,h2,h3,h4,h5 {
+		margin-left: $line-height-computed / 2;
+	}
+	h1{
+		font-size: $font-size-h1 * .95;
+	}
+	h2{
+		font-size: $font-size-h2 * .95;
+	}
+	h3 {
+		font-size: $font-size-h3 * .95;
+	}
+}
+
+#App {
+	@include span(8 last);
+	position: absolute;
+	position: fixed;
+	top: 0;
+	bottom: $line-height-computed;
+	overflow: auto;
+	h1 {
+		position: fixed;
+		top: 0;
+		background: white;
+		z-index: 2;
+		margin: 0;
+		padding-bottom: $line-height-computed / 2;
+		width: span(8);
+	}
+	.copia-container{
+		padding-top: 6rem;
+		h2 {
+			font: {
+				family: $font-family-serif;
+				weight: 400;
+				size: 24px;
+			}
+			line-height: $line-height-base;
+			margin: {
+				top: 0;
+				bottom: $line-height-computed / 2;
+				left: $line-height-computed * 2;
+			}
+		}
+		.copia-enter {
+		  opacity: 0.01;
+		}
+
+		.copia-enter.copia-enter-active {
+		  opacity: 1;
+		  transition: opacity 300ms ease-in;
+		}
+
+		.copia-leave {
+		  opacity: 1;
+		}
+
+		.copia-leave.copia-leave-active {
+		  opacity: 0.01;
+		  transition: opacity 300ms ease-in;
+		}
+	}
+}

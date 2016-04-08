@@ -1,0 +1,14 @@
+$font-family-sans-serif: 'Lato', serif;
+$font-family-serif: 'Libre Baskerville', serif;
+
+$font-size-base: 18px;
+
+@import "bootstrap-sass/assets/stylesheets/bootstrap/variables";
+
+// Override any of the default variable settings here:
+
+$headings-font-weight: 700;
+
+$font-size-h1: floor((14px * 2.6));
+$font-size-h2: floor((14px * 2.1));
+$font-size-h3: floor((14px * 1.7));
