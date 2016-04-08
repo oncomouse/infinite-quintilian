@@ -14,7 +14,7 @@ revise them with all the consideration of a dispassionate reader. But if there i
 their publication as you assert, why then let us
 spread our canvas to the gale and offer up a fervent
 prayer to heaven as we put out to sea. But remember I rely on your loyal care to see that they
-reach the public in as correct a form as possible. div1 Having at length, after twenty years devoted to
+reach the public in as correct a form as possible.  Having at length, after twenty years devoted to
 the training of the young, obtained leisure for study,
 I was asked by certain of my friends to write
 something on the art of speaking. For a long time I
@@ -827,7 +827,7 @@ child of virtue. But the attractions of my theme
 have led me to say overmuch. Enough of those
 studies in which a boy must be instructed, while he
 is yet too young to proceed to greater things My
-next book will start afresh and will pass to the consideration of the duties of the teacher of rhetoric. div1I would, therefore, have a father conceive the
+next book will start afresh and will pass to the consideration of the duties of the teacher of rhetoric. I would, therefore, have a father conceive the
 highest hopes of his son from the moment of his
 birth. If he does so, he will be more careful about
 the groundwork of his education. For there is
@@ -4266,7 +4266,7 @@ although it produces nothing, but the artist must
 have them. The engraver cannot work without his
 chisel nor the painter without his brush. I shall
 therefore defer this question until I come to treat of
-the orator as distinct from his art. div1I shall now proceed to indicate what I think
+the orator as distinct from his art. I shall now proceed to indicate what I think
 should be the first subjects in which the rhetorician
 should give instruction, and shall postpone for a
 time our consideration of the art of rhetoric in the
@@ -7334,7 +7334,7 @@ the writers of text-books, though I have done so
 at a greater length than was necessary. I have
 also explained what are the various parts of forensic
 causes. My next book therefore shall deal with
-the exordium. div1I have now, my dear Marcellus Victorius, completed the third book of the work which I have
+the exordium. I have now, my dear Marcellus Victorius, completed the third book of the work which I have
 dedicated to you, and have nearly finished a quarter
 of my task, and am confronted with a motive for
 renewed diligence and increased anxiety as to the
@@ -9346,7 +9346,7 @@ acknowledged by our opponent and those acknowledged by ourselves. Disputed facts
 into those which we and those which our opponents
 allege. But the worst fault of all is to treat your
 points in an order different from that which was
-assigned them in your proposition. div1There have been certain writers of no small
+assigned them in your proposition. There have been certain writers of no small
 authority who have held that the sole duty of the
 orator was to instruct in their view appeals to the
 emotions were to be excluded for two reasons, first
@@ -11497,7 +11497,7 @@ think that Cicero was in error when he introduced
 phrases such as the following into an argumentative
 passage and However, we must be careful
 to observe a happy mean in the employment of such
-embellishments, so that they may prove a real ornament and not a hindrance. div1 1. To begin with it may be noted that the division laid down by Aristotle has met with almost
+embellishments, so that they may prove a real ornament and not a hindrance.  1. To begin with it may be noted that the division laid down by Aristotle has met with almost
 universal approval. It is to the effect that there are
 some proofs adopted by the orator which lie outside
 the art of speaking, and others which he himself
@@ -14082,7 +14082,7 @@ with whom we are concerned. But since this topic
 covers a wide field and is intimately connected with
 eloquence itself, I shall reserve my treatment of it
 till I come to give instructions on the subject of
-appropriateness in speaking. div1I think that enough has been said on the subject
+appropriateness in speaking. I think that enough has been said on the subject
 of invention. For I have dealt not merely with the
 methods by which we may instruct the judge, but
 also with the means of appealing to his emotions.
@@ -16337,7 +16337,7 @@ however, that I have been lured on from one thing to
 another and have advanced somewhat too far, since
 I find myself gliding from the subject of arrangement to the discussion of the general rules of style,
 which will form the opening theme of the next
-book. div1 THE observations contained in the preceding five
+book.  THE observations contained in the preceding five
 books approximately cover the method of invention
 and the arrangement of the material thus provided.
 It is absolutely necessary to acquire a thorough
@@ -18364,7 +18364,7 @@ language will be more effective if it goes beyond
 the truth than if it falls short of it. However, I
 have said enough on this topic, since I have already
 dealt with it in my work on the causes of the decline
-of oratory. div1In my last book I spoke of tropes. I now come
+of oratory. In my last book I spoke of tropes. I now come
 tofigures, called in Greek, a topic which is
 naturally and closely connected with the preceding.
 For many authors have considered figures identical
@@ -21211,7 +21211,7 @@ by expression and thought. Above all it is necessary
 to conceal the care expended upon it so that our
 rhythms may seem to possess a spontaneous flow, not
 to have been the result of elaborate search or
-compulsion. div1But these rules of style, while part of the
+compulsion. But these rules of style, while part of the
 student's theoretical knowledge, are not in themselves sufficient to give him oratorical power. In
 addition he will require that assured facility which
 the Greeks call I know that many have raised
@@ -23400,7 +23400,7 @@ committed to writing and being unable to think of
 anything fresh to say. However, as the topic of
 memory will be discussed in the next book, I will
 not introduce it here, as there are other points
-which require to be dealt with first. div1After acquiring the power of writing and thinking, as described in the preceding book, and also of
+which require to be dealt with first. After acquiring the power of writing and thinking, as described in the preceding book, and also of
 pleading extempore, if occasion demand, our next
 task will be to ensure that appropriateness of speech,
 which Cicero shows to be the fourth department of
@@ -26194,7 +26194,7 @@ certain portions of a speech, but requires to be kept
 under control. Otherwise, in our attempt to ape
 the elegances of the stage, we shall lose the authority
 which should characterise the man of dignity and
-virtue. div1I now come to what is by far the most arduous
+virtue. I now come to what is by far the most arduous
 portion of the task which I have set myself to perform. Indeed had I fully realised the difficulties
 when I first designed this work, I should have considered betimes whether my strength was sufficient to
 support the load that now weighs upon me so heavily.
@@ -27229,7 +27229,7 @@ might, as far as in me lay, help to advance the
 teaching of oratory. If the knowledge of these
 principles proves to be of small practical utility to
 the young student, it should at least produce what
-value more,the will to do well. div1The orator then, whom I am concerned to form,
+value more,the will to do well. The orator then, whom I am concerned to form,
 shall be the orator as defined by Marcus Cato, But above all he must
 possess the quality which Cato places first and which
 is in the very nature of things the greatest and most
